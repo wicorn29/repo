@@ -26,3 +26,22 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.alexzielenski.zeppelin
+Version: 2.1.1-1
+Architecture: iphoneos-arm
+Name: Zeppelin
+Maintainer: Alex Zielenski <support@alexzielenski.com>
+Author: Alex Zielenski <support@alexzielenski.com>
+Filename: ./debs/com.alexzielenski.zeppelin_2.1.1-1_iphoneos-arm.deb
+Size: 961736
+MD5sum: a91d9dfb8b2d198ef3dba92201e1c684
+SHA1: 98ca43528da3e11610b106deb92f0c27eb44c1df
+SHA256: b0693558cb0cdad230685dbf5e9215969bb5ea24c66802fa90d54a7f8386ed9a
+Section: Tweaks
+Description: Replaces carrier text with an image !
+Conflicts: com.arab-cydia.zeppelin, com.speedmx.xeonbeta, com.peterdev.xeon, com.peterdev.xeonbeta, com.hackyouriphone.xeonbeta, org.cydia.kiiimo.xeonbeta, org.cydia.kiiimo.xeon, com.arab-cydia.xeon, ru.rejail.xeonbeta
+Depiction: https://speedmx.github.io/depictions/?p=com.alexzielenski.zeppelin
+Sileodepiction: https://speedmx.github.io/sileo/zeppelin/com.alexzielenski.zeppelin.json
+Homepage: http://www.alexzielenski.com
+Icon: http://i.imgur.com/tvLxnB5.png
+
