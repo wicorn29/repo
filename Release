@@ -1,8 +1,8 @@
-Origin: Reposi3
-Label: Reposi3
+Origin: Wicorn29
+Label: Wicorn29's Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Reposi3 - a cydia repo template
+Description: Wicorn29's Cydia/Sileo repository for tweaks and tools.
