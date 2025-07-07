@@ -1,6 +1,20 @@
 <changelog>
-	<changes>
-		<version>0.1-0</version>
-		<change>First Release</change>
-		<change>Yeah this little thing just adds some command tools that help my tweaks not poop the bed</change>
+  <changes>
+    <version>2.0-0</version>
+    <change>Reworked entire w29 toolkit for iOS 12+ compatibility without extra dependencies</change>
+    <change>Unified backup and restore commands with improved user confirmation</change>
+    <change>Added detailed warnings to prevent accidental system damage</change>
+    <change>Improved network, model, and iOS version detection using native tools</change>
+  </changes>
+  <changes>
+    <version>1.0-0</version>
+    <change>Introduced modsysps command for modifying system plist keys</change>
+    <change>Added backup (bsysps) and restore (rsysps) commands for system plist</change>
+    <change>Implemented confirmation prompts for dangerous operations</change>
+  </changes>
+  <changes>
+    <version>0.3-0</version>
+    <change>Initial public release of w29 command toolkit</change>
+    <change>Basic device info, respring, safemode, and cache clean commands</change>
+  </changes>
 </changelog>

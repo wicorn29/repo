@@ -1,12 +1,12 @@
 Package: com.wicorn29.framework
-Version: 0.2-0
+Version: 0.3-0
 Section: System
 Maintainer: Wicorn29 <wilsonc@wicorn29.net>
 Depends: mobilesubstrate, firmware (>= 12.5)
 Architecture: iphoneos-arm
-Filename: ./debs/com.wicorn29.framework_0.2-0_iphoneos-arm.deb
-Size: 1332
-MD5sum: 45f06cd211688d8bbaca2d11b0911c0c
+Filename: ./debs/com.wicorn29.framework_0.3-0_iphoneos-arm.deb
+Size: 2980
+MD5sum: a619ffd0bc956e7bcf05ee3a91205c3b
 Description: Wicorn29 Core Framework providing shared libraries for Wicorn29 packages.
 Name: Wicorn29 Core Framework
 Author: Wicorn29 <wilsonc@wicorn29.net>

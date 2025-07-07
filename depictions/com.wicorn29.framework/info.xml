@@ -1,19 +1,39 @@
 <package>
 	<id>com.wicorn29.framework</id>
 	<name>Wicorn29 Core Framework</name>
-	<version>0.1-0</version>
+	<version>0.3-0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>4.2.1</miniOS>
+			<miniOS>12.5</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
 	<shortDescription>Wicorn29 Core Framework providing shared libraries for Wicorn29 packages.</shortDescription>
-	<descriptionlist>
-		<description>Wicorn29 Core Framework providing shared libraries for Wicorn29 packages. This little guy just helps some of my tweaks and stuff work. Nothing much.</description>
-	</descriptionlist>
+    <descriptionlist>
+      <description>
+        Wicorn29 Core Framework providing essential shared libraries and utilities for Wicorn29 packages.
+        Features include system information commands, device model and network info retrieval, cache cleaning,
+        and powerful system plist management tools with safe backup, restore, and modification capabilities.
+        Designed for iOS 12 and above, this framework helps keep your tweaks stable and your device running smoothly.
+      </description>
+      <description>
+        Included commands:
+        - --ios-ver: Show iOS version
+        - --krnl-ver: Show kernel version
+        - uptime: Show system uptime
+        - model: Show device model
+        - network: Show IP address
+        - respring: Respring the device
+        - safemode: Enter Substrate safe mode
+        - cleancache: Clear Cydia cache
+        - modsysps <key> <value>: Modify system plist key (with backup safety)
+        - bsysps -backup: Backup system plist
+        - bsysps -restore: Restore system plist (with diff & confirmation)
+        - bsysps --destroy-backup: Delete system plist backup
+      </description>
+    </descriptionlist>
 
 	<links>
 		<link>
