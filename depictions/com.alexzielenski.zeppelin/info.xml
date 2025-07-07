@@ -1,0 +1,24 @@
+<package>
+	<id>com.alexzielenski.zeppelin</id>
+	<name>Zeppelin</name>
+	<version>2.1.1-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>4.2</miniOS>
+			<maxiOS>12.1.2</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+	</dependencies>
+	<shortDescription>Replaces carrier text with an image !</shortDescription>
+	<descriptionlist>
+		<description><div>Replaces carrier text with an image !</div></description>
+	</descriptionlist>
+	<screenshots>		
+	</screenshots>
+	<changelog>
+		<change>Update plus some other stuff</change>
+	</changelog>
+	<links>
+	</links>
+</package>
