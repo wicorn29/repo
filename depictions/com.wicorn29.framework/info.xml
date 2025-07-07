@@ -30,7 +30,7 @@
         - cleancache: Clear Cydia cache
         - modsysps *key* *value* : Modify system plist key (with backup safety)
         - bsysps -backup: Backup system plist
-        - bsysps -restore: Restore system plist (with diff & confirmation)
+        - bsysps -restore: Restore system plist
         - bsysps --destroy-backup: Delete system plist backup
       </description>
     </descriptionlist>
