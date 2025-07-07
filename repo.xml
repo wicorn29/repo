@@ -2,13 +2,13 @@
 <repo>
     <name>Wicorn29's Repo</name>
     <origin>Wicorn29's Repo: Origin: Wicorn29</origin>
-    <label>Wicorn29</label>
+    <label>Wicorn29's Repo</label>
     <suite>stable</suite>
     <version>1.0</version>
     <codename>ios</codename>
     <architectures>iphoneos-arm iphoneos-arm64 iphoneos-arm64e</architectures>
     <components>main</components>
-    <description>Wicorn29's personal Cydia repo</description>
+    <description>Wicorn29's repo for interesting stuff</description>
     <footerlinks>
         <link>
             <name>Follow Wicorn29 on Twitter</name>
