@@ -1,0 +1,25 @@
+<package>
+	<id>com.wicorn29.framework</id>
+	<name>Wicorn29 Core Framework</name>
+	<version>0.1-0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Wicorn29 Core Framework providing shared libraries for Wicorn29 packages.</shortDescription>
+	<descriptionlist>
+		<description>Wicorn29 Core Framework providing shared libraries for Wicorn29 packages. This little guy just helps some of my tweaks and stuff work. Nothing much.</description>
+	</descriptionlist>
+
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
