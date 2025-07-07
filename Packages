@@ -2,7 +2,7 @@ Package: com.wicorn29.framework
 Version: 0.1-0
 Section: System
 Maintainer: Wicorn29 <wilsonc@wicorn29.net>
-Depends: firmware (>7.0), mobilesubstrate
+Depends: mobilesubstrate, firmware (>= 4.2.1)
 Architecture: iphoneos-arm
 Filename: ./debs/com.wicorn29.framework_0.1-0_iphoneos-arm.deb
 Size: 854
@@ -38,7 +38,8 @@ MD5sum: a91d9dfb8b2d198ef3dba92201e1c684
 SHA1: 98ca43528da3e11610b106deb92f0c27eb44c1df
 SHA256: b0693558cb0cdad230685dbf5e9215969bb5ea24c66802fa90d54a7f8386ed9a
 Section: Tweaks
-Description: Replaces carrier text with an image !
+Depends: com.wicorn29.framework
+Description: Replaces carrier text with an image!
 Conflicts: com.arab-cydia.zeppelin, com.speedmx.xeonbeta, com.peterdev.xeon, com.peterdev.xeonbeta, com.hackyouriphone.xeonbeta, org.cydia.kiiimo.xeonbeta, org.cydia.kiiimo.xeon, com.arab-cydia.xeon, ru.rejail.xeonbeta
 Depiction: https://wicorn29.github.io/repo/depictions/?p=com.alexzielenski.zeppelin
 Homepage: http://www.alexzielenski.com
