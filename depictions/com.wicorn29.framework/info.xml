@@ -28,7 +28,7 @@
         - respring: Respring the device
         - safemode: Enter Substrate safe mode
         - cleancache: Clear Cydia cache
-        - modsysps <key> <value>: Modify system plist key (with backup safety)
+        - modsysps *key* *value* : Modify system plist key (with backup safety)
         - bsysps -backup: Backup system plist
         - bsysps -restore: Restore system plist (with diff & confirmation)
         - bsysps --destroy-backup: Delete system plist backup
