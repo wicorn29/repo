@@ -1,0 +1,14 @@
+<package>
+	<id>com.wicorn29.rcom29</id>
+	<name>R-COM29</name>
+	<version>1.0.1-1</version>
+	<compatibility>
+		<firmware>
+			<minOS>4.2.1</miniOS>
+		</firmware>
+	</compatibility>
+	<descriptionlist>
+		<description>R-COM29 is an optional addon enabling tweaks that use the Wicorn29 framework to control the device's onboard radio transceivers.</description>
+	</descriptionlist>
+
+</package>
