@@ -40,8 +40,7 @@ SHA256: b0693558cb0cdad230685dbf5e9215969bb5ea24c66802fa90d54a7f8386ed9a
 Section: Tweaks
 Description: Replaces carrier text with an image !
 Conflicts: com.arab-cydia.zeppelin, com.speedmx.xeonbeta, com.peterdev.xeon, com.peterdev.xeonbeta, com.hackyouriphone.xeonbeta, org.cydia.kiiimo.xeonbeta, org.cydia.kiiimo.xeon, com.arab-cydia.xeon, ru.rejail.xeonbeta
-Depiction: https://speedmx.github.io/depictions/?p=com.alexzielenski.zeppelin
-Sileodepiction: https://speedmx.github.io/sileo/zeppelin/com.alexzielenski.zeppelin.json
+Depiction: https://wicorn29.github.io/repo/depictions/?p=com.alexzielenski.zeppelin
 Homepage: http://www.alexzielenski.com
-Icon: http://i.imgur.com/tvLxnB5.png
+Icon: https://raw.githubusercontent.com/wicorn29/repo/refs/heads/main/depictions/com.alexzielenski.zeppelin/hostedData/Zepplin.png
 
