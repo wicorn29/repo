@@ -1,0 +1,6 @@
+Package: com.wicorn29.framework
+Version: 0.1-0
+Architecture: iphoneos-arm
+Maintainer: Wilson <you@wicorn29.net>
+Depends: firmware (>= 4.2.1)
+Description: Wicorn29 Core Framework providing shared utilities for Wicorn29 packages.
