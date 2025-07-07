@@ -5,8 +5,8 @@ Maintainer: Wicorn29 <wilsonc@wicorn29.net>
 Depends: mobilesubstrate, firmware (>= 12.5)
 Architecture: iphoneos-arm
 Filename: ./debs/com.wicorn29.framework_0.3-0_iphoneos-arm.deb
-Size: 2980
-MD5sum: a619ffd0bc956e7bcf05ee3a91205c3b
+Size: 2452
+MD5sum: 07d63790e7cf504ecd157ce01e2406ca
 Description: Wicorn29 Core Framework providing shared libraries for Wicorn29 packages.
 Name: Wicorn29 Core Framework
 Author: Wicorn29 <wilsonc@wicorn29.net>
@@ -18,9 +18,9 @@ Section: Networking
 Maintainer: Wicorn29 <wilsonc@wicorn29.net>
 Depends: mobilesubstrate, firmware (>= 4.2.1)
 Architecture: iphoneos-arm
-Filename: ./debs/com.wicorn29.rcom29_0.1-0_iphoneos-arm.deb
-Size: 80799812
-MD5sum: 616889190937b65b432ec9cfaff23035
+Filename: ./debs/com.wicorn29.rcom29_0.0.1-1_iphoneos-arm.deb
+Size: 80863776
+MD5sum: 2e8d32a88658cf91294c07cd2b704568
 Description: Enables tweaks using the Wicorn29 framework to access device radios.
 Name: R-COM29
 Author: Wicorn29 <wilsonc@wicorn29.net>
