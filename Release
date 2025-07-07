@@ -3,6 +3,6 @@ Label: Wicorn29's Repo
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm
+Architectures: iphoneos-arm iphoneos-arm64 all
 Components: main
 Description: Wicorn29's Cydia/Sileo repository for tweaks and tools.
